@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, welcome to my GitHub 😄
 
 <!--
 **wnnehxyi/wnnehxyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Education: National Yang Ming Chiao Tung University
+Master of Biomedical Informatics
+
+#### Skills: 
+- Artificial intelligence (AI)
+- Data preprocessing
+- Biostatics
+- Data visualization
+
+#### Tools and Framework:
+- Data processing
+  - Numpy, Pandas
+  
+- Modelling
+  - Tensorflow
+  - Keras
+  - Scikit-Learn
+
+- Visualization
+  - Matplotlib
+  - Seaborn
+
+![](https://github-readme-stats.vercel.app/api?username=wnnehxyi&show_icons=true)
