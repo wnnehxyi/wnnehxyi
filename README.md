@@ -29,12 +29,9 @@ Master of Biomedical Informatics
   - Numpy, Pandas
   
 - Modelling
-  - Tensorflow
-  - Keras
-  - Scikit-Learn
+  - Tensorflow, Keras, Scikit-Learn
 
 - Visualization
-  - Matplotlib
-  - Seaborn
+  - Matplotlib, Seaborn
 
 ![](https://github-readme-stats.vercel.app/api?username=wnnehxyi&show_icons=true)
