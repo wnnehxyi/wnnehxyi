@@ -26,7 +26,7 @@ Master of Biomedical Informatics
 
 #### Tools and Framework:
 - Data processing
-  - Numpy, Pandas
+  - Numpy, Pandas, SciPy
   
 - Modelling
   - Tensorflow, Keras, Scikit-Learn
