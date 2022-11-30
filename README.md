@@ -28,10 +28,13 @@ Master of Biomedical Informatics
 - Data processing
   - Numpy, Pandas, SciPy
   
-- Modelling
+- Machine learning model
   - Tensorflow, Keras, Scikit-Learn
 
 - Visualization
   - Matplotlib, Seaborn
+
+- Database
+  - MySQL
 
 ![](https://github-readme-stats.vercel.app/api?username=wnnehxyi&show_icons=true)
