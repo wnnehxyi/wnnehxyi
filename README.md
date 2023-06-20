@@ -23,6 +23,8 @@ Master of Biomedical Informatics
 - Data preprocessing
 - Biostatics
 - Data visualization
+- API
+- virtualization container
 
 #### Tools and Framework:
 - Data processing
@@ -35,6 +37,12 @@ Master of Biomedical Informatics
   - Matplotlib, Seaborn
 
 - Database
-  - MySQL
+  - MySQL, Oracle
+    
+- API
+  - FastAPI
+ 
+- Container
+  - Docker
 
 ![](https://github-readme-stats.vercel.app/api?username=wnnehxyi&show_icons=true)
